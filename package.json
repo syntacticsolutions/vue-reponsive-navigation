@@ -24,7 +24,7 @@
     "chai": "^4.1.2",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "lint-staged": "^8.1.5",
+    "lint-staged": "^13.1.0",
     "mem": "^5.1.1",
     "sass": "^1.18.0",
     "sass-loader": "^7.1.0",
